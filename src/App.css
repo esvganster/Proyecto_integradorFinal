@@ -44,6 +44,7 @@
 .form-card { background: #fff; border: 1px solid #eaecf0; padding: 16px; border-radius: 12px; margin-top: 12px; }
 .form-card label { display: grid; gap: 7px; font-weight: 700; font-size: 14px; }
 .form-card textarea { min-height: 80px; resize: vertical; margin-bottom: 9px; }
+.save-message { display: block; margin-top: 8px; color: #067647; font-weight: 700; }
 .two-column { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
 .list-clean { padding-left: 18px; line-height: 1.9; }
 @media (max-width: 760px) { .navbar { align-items: flex-start; flex-wrap: wrap; } .hero, .detail, .two-column { grid-template-columns: 1fr; } .hero-art { max-width: 260px; } .saved-row { grid-template-columns: 100px 1fr; } .saved-row img { width: 100px; } }
