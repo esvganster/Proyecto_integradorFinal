@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "site": "rick-morty-dashboard-130690",
+
+    "public": "dist",
+    
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
